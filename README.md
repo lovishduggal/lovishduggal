@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Frontend Technologies.**
 
--  I’m looking to collaborate on **Github.**
+- 😎 I’m looking to collaborate on **Github.**
 
 - 📫 How to reach me **lovishduggal11@gmail.com**
 
