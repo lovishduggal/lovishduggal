@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lovish Duggal</h1>
-<h3 align="center">Exploring Web Devlopment</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovishduggal&label=Profile%20views&color=0e75b6&style=flat" alt="lovishduggal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lovishdtwts" target="blank"><img src="https://img.shields.io/twitter/follow/lovishdtwts?logo=twitter&style=for-the-badge" alt="lovishdtwts" /></a> </p>
 
-- 🔭 I’m currently learning **Frontend Technologies.**
+- 🔭 I’m currently learning **C++ & DSA.**
 
 - 😎 I’m looking to collaborate on **Github.**
 
