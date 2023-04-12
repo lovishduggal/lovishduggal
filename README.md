@@ -1,5 +1,5 @@
 ![MasterHead](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Lovish Duggal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Lovish Duggal</h1> -->
 <!-- <h3 align="center">Learning DSA & MERN | #LearnInPublic | Open Source Enthusiastic | Blogs & Threadsionate</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
