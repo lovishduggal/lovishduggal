@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **javaScript**
 
-- 📝 Lastest blog [https://lovishduggal.hashnode.dev/datatypes-instructions](https://lovishduggal.hashnode.dev/datatypes-instructions)
+- 📝 Latest blog [https://lovishduggal.hashnode.dev/datatypes-instructions](https://lovishduggal.hashnode.dev/datatypes-instructions)
 
 - 💬 Ask me about **HTML,CSS, javaScript and logic building**
 
