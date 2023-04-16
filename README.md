@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/lovishdtwts" target="blank"><img src="https://img.shields.io/twitter/follow/lovishdtwts?logo=twitter&style=for-the-badge" alt="lovishdtwts" /></a> </p>
 
-- 🔭 I’m currently working on [JiraTicketClone](https://lovishduggal.github.io/JiraTicketClone/)
+- 🔭 I’m currently working on [Dropdown-Navigation-Bar](https://lovishduggal.github.io/intro-section-with-dropdown-navigation-main/)
 
 - 🌱 I’m currently learning **javaScript**
 
