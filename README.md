@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=lovishduggal&icon=0&color=12)](https://visitcount.itsvg.in)
  <h1 >Hello there! I am Lovish, a Full-Stack Engineer.</h1> 
  
 ![MasterHead](./github-header-image.png)
