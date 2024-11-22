@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Interview Prep<br>🤝 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning how things work under the hood<br>💬 Ask me about JavaScript, React, Node, MongoDB</p>
+<p align="left">🤝 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning how things work under the hood<br>💬 Ask me about JavaScript, React, Node, MongoDB</p>
 
 ###
 
